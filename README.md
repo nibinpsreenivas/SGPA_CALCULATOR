@@ -12,3 +12,4 @@ Run the following commands from your terminal:
 2) `flutter pub get` in the project root directory to install all the required dependencies.
  
  
+ 
